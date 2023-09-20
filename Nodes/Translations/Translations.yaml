@@ -1,0 +1,18 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [3,2],
+    "Body": [
+     "","en-US",
+     "Label1","Label1",
+     "this is a label","this is a label"
+    ]
+   }
